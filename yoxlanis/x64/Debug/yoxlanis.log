@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\asus\source\repos\yoxlanis\yoxlanis\Classes.h(251,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asus\source\repos\yoxlanis\yoxlanis\Source.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  yoxlanis.vcxproj -> C:\Users\asus\source\repos\yoxlanis\x64\Debug\yoxlanis.exe
